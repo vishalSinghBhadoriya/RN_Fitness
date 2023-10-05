@@ -122,8 +122,13 @@ body {
       position: static !important;
     }
   
-    .hero-banner-img {
-      display: none;
+     .hero-banner-img {
+      width: 100%; /* Adjusted width to be 100% of the parent container */
+      max-width: none; /* Ensure max-width is unset for responsiveness */
+      height: auto; /* Maintain aspect ratio */
+      margin-top: 0;
+      right: 0;
+      opacity: 0.5;
     }
   
     .exercise-card {
