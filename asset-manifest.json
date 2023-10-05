@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RN_Fitness/static/css/main.20acbc28.css",
+    "main.js": "/RN_Fitness/static/js/main.2d466007.js",
+    "static/media/banner.png": "/RN_Fitness/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/RN_Fitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/RN_Fitness/index.html",
+    "main.20acbc28.css.map": "/RN_Fitness/static/css/main.20acbc28.css.map",
+    "main.2d466007.js.map": "/RN_Fitness/static/js/main.2d466007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.2d466007.js"
+  ]
+}
